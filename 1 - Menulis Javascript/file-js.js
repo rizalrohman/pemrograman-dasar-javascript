@@ -1,0 +1,1 @@
+console.log("Hello World.. ditulis menggunakan file js eksternal")
